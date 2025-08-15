@@ -761,7 +761,6 @@ with mlflow.start_run():
     mlflow.log_metrics(metrics)  # Single batch call
 ```
 
-# MLflow Complete Reference Card
 
 ## Overview
 
