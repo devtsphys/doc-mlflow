@@ -1,4 +1,4 @@
-# # MLflow Complete Reference Card
+# MLflow Complete Reference Card
 
 ## Overview
 
